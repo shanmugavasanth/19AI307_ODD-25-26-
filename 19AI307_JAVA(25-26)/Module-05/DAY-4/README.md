@@ -31,8 +31,8 @@ To write a Java program to determine and display the name and priority of the cu
  ```
 /*
 Program to implement a Thread Priority Concept using Java
-Developed by: Nikshitha G
-RegisterNumber: 212223110031
+Developed by: SHANMUGA VASANTH M
+RegisterNumber: 212223040191
 */
 ```
 

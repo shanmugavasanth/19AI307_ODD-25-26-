@@ -25,8 +25,8 @@ To write a Java program that performs integer division on two user-inputted numb
  ```
 /*
 Program to implement a Exception Handling using Java
-Developed by: Nikshitha G
-RegisterNumber: 212223110031
+Developed by: SHANMUGA VASANTH M
+RegisterNumber: 212223040191
 */
 ```
 
