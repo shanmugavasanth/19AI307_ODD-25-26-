@@ -31,8 +31,8 @@ To write a Java program that implements a parameterized constructor to initializ
  ```
 /*
 Program to implement a Variable scope and Constructor using Java
-Developed by: Nikshitha G
-RegisterNumber: 212223110031
+Developed by: SHANMUGA VASANTH M
+Reg. No.: 212223040191
 */
 ```
 
